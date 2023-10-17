@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/CSS/style.css" />
+    <link rel="shortcut icon" href="/img/calculadora.png" type="image/x-icon" />
+    <script src="./JS/index.js" defer></script>
+    <title>Calculadora de Gorjeta</title>
+  </head>
+  <body>
+    <header>
+      <h1>Calculadora de gorjetas</h1>
+    </header>
+    <hr />
+
+    <main>
+      <div class="box-main">
+        <div class="box-1">
+          <div class="conta">
+            <p>Conta:</p>
+            <input id="total" class="inputs" type="number" placeholder="0" />
+          </div>
+          <div class="buttons-grid">
+            <p class="select-btn">selecione uma porcentagem:</p>
+            <button class="btn-calc">5%</button>
+            <button class="btn-calc">10%</button>
+            <button class="btn-calc">20%</button>
+            <button class="btn-calc">30%</button>
+            <button class="btn-calc">40%</button>
+            <button class="btn-calc">50%</button>
+          </div>
+          <div class="pesoas">
+            <p>Número de pessoas:</p>
+            <input class="inputs" id="pessoa" type="number" placeholder="0" />
+          </div>
+        </div>
+        <div class="box-2">
+          <div class="valor-conta">
+            <p>Total consumido:</p>
+            <h3 id="valorTotal">R$ 0.00</h3>
+          </div>
+          <div class="valor-conta">
+            <p>Conta de gorjeta por pessoa:</p>
+            <h3 id="valorPessoa">R$ 0.00</h3>
+          </div>
+          <button class="btn" id="reset">Resetar</button>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
