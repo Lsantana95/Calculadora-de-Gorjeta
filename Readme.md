@@ -10,6 +10,7 @@ Uma calculadora de gorjeta simples construída com HTML, CSS e JavaScript para c
 | ![Imagem 1](/img/calculadora-responsiva-parte01.png) | ![Imagem 2](/img/calculadora-responsiva-parte02.png) |
 |---|---|
 
+### Você pode testar a calculadora através deste [Link](https://calculadora-de-gorjeta-roan.vercel.app/)
 
 ## Instruções de Uso
 
