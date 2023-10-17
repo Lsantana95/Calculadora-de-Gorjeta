@@ -7,8 +7,8 @@ Uma calculadora de gorjeta simples construída com HTML, CSS e JavaScript para c
 ## Demonstração
 
 ![Calculadora de Gorjeta](/img/calculadora-gorjeta.png)
-![Calculadora de Gorjeta](/img/calculadora-responsiva-parte01.png)
-![Calculadora de Gorjeta](/img/calculadora-responsiva-parte02.png)
+| ![Imagem 1](/img/calculadora-responsiva-parte01.png) | ![Imagem 2](/img/calculadora-responsiva-parte02.png) |
+|---|---|
 
 
 ## Instruções de Uso
